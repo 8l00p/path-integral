@@ -1336,19 +1336,19 @@
         __e = _.escape;
       with (obj)
         __p +=
-          '<div class="post-attribution"><a class="post-attribution-link" href="' +
-          __e(attribution.post) +
-          '" target="_blank" rel="nofollow"><span data-translation="posted_by">' +
-          __e(localized("posted_by", "Posted by")) +
-          ' </span><strong class="blog-name">' +
-          __e(attribution.name) +
-          '</strong></a><a class="avatar-link" href="' +
-          __e(attribution.post) +
-          '" target="_blank" rel="nofollow"><img class="avatar-image" src="' +
-          __e(attribution.avatar) +
-          '" alt="' +
-          __e(attribution.name) +
-          '"></a></div>';
+       //   '<div class="post-attribution"><a class="post-attribution-link" href="' +
+        /  __e(attribution.post) +
+       //   '" target="_blank" rel="nofollow"><span data-translation="posted_by">' +
+         // __e(localized("posted_by", "Posted by")) +
+          //' </span><strong class="blog-name">' +
+          // __e(attribution.name) +
+         // '</strong></a><a class="avatar-link" href="' +
+        //  __e(attribution.post) +
+        //  '" target="_blank" rel="nofollow"><img class="avatar-image" src="' +
+        //  __e(attribution.avatar) +
+        //  '" alt="' +
+       //   __e(attribution.name) +
+       //   '"></a></div>'; 
       return __p;
     };
   },
