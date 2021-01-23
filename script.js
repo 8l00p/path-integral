@@ -465,22 +465,6 @@
         avatar: "//66.media.tumblr.com/avatar_092d79dc6937_128.png",
         blog: "https://mrdiv.tumblr.com/"
       },
-      {
-        post: "https://berrymetal.tumblr.com/post/134065552975",
-        img:
-          "//66.media.tumblr.com/0a9a8c13b2b8f7c8b20002d807363ada/tumblr_nyhgvtMHLU1qiratvo1_400.gif",
-        name: "berrymetal",
-        avatar: "//66.media.tumblr.com/avatar_e03842ba6749_128.png",
-        blog: "https://berrymetal.tumblr.com"
-      },
-      {
-        post: "https://looopism.tumblr.com/post/137094548496",
-        img:
-          "//66.media.tumblr.com/cb1fbb540a77acbbaacf533345bad82f/tumblr_o0srtfoyaa1tjhgrfo1_1280.gif",
-        name: "looopism",
-        avatar: "//66.media.tumblr.com/avatar_b425a472511d_128.png",
-        blog: "https://looopism.tumblr.com"
-      },
     ];
   },
   function(t, r, n) {
