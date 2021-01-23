@@ -481,69 +481,6 @@
         avatar: "//66.media.tumblr.com/avatar_b425a472511d_128.png",
         blog: "https://looopism.tumblr.com"
       },
-      {
-        post:
-          "https://challenger23.tumblr.com/post/50172533016/higher-higher-hard-to-believe-its-been-a",
-        img: "//66.media.tumblr.com/tumblr_m6eu89zSRs1rpmo4ho1_500.gif",
-        name: "challenger23",
-        avatar: "//66.media.tumblr.com/avatar_0a2d70eecc7d_128.png",
-        blog: "https://challenger23.tumblr.com"
-      },
-      {
-        post: "https://dvdp.tumblr.com/post/29122608238/120810",
-        img: "//66.media.tumblr.com/tumblr_m8jk6nInJO1qzt4vjo1_r1_500.gif",
-        name: "dvdp",
-        avatar: "//66.media.tumblr.com/avatar_8ade00b0bf51_128.png",
-        blog: "https://dvdp.tumblr.com"
-      },
-      {
-        post:
-          "https://dvdp.tumblr.com/post/30930983823/me-in-a-magnetic-field-and-pulses-of-radio-wave",
-        img: "//66.media.tumblr.com/tumblr_m9vnbwxeKy1qzt4vjo1_500.gif",
-        name: "dvdp",
-        avatar: "//66.media.tumblr.com/avatar_8ade00b0bf51_128.png",
-        blog: "https://dvdp.tumblr.com"
-      },
-      {
-        post: "https://jesselucas.com/post/42680218734/cash-infiniteeye",
-        img:
-          "//66.media.tumblr.com/738982bf60bc01e007fd2249f77cb0e2/tumblr_mhytt5EpNd1qzp2qco1_500.gif",
-        name: "jesselucas",
-        avatar: "//66.media.tumblr.com/avatar_9935678ab27d_128.png",
-        blog: "https://jesselucas.com"
-      },
-      {
-        post: "https://mrdiv.tumblr.com/post/48618427039/disco-sphere",
-        img:
-          "//66.media.tumblr.com/7ed2dab49586c00956a0bb491d1b5538/tumblr_mlnzx84Ur21qzw1qyo1_500.gif",
-        name: "mrdiv",
-        avatar: "//66.media.tumblr.com/avatar_092d79dc6937_128.png",
-        blog: "https://mrdiv.tumblr.com/"
-      },
-      {
-        post: "https://mrdiv.tumblr.com/post/26634486527/cycloid",
-        img: "//66.media.tumblr.com/tumblr_m6qyybDaS11qzw1qyo1_500.gif",
-        name: "mrdiv",
-        avatar: "//66.media.tumblr.com/avatar_092d79dc6937_128.png",
-        blog: "https://mrdiv.tumblr.com/"
-      },
-      {
-        post: "https://rrrrrrrroll.tumblr.com/post/43566853423/r-73",
-        img:
-          "//66.media.tumblr.com/5865a129ed7251379b9eefdaed2fbe86/tumblr_miidckSoFJ1rt0g8wo1_500.gif",
-        name: "rrrrrrrroll",
-        avatar: "//66.media.tumblr.com/avatar_e9fd800d4dd0_128.png",
-        blog: "https://rrrrrrrroll.tumblr.com"
-      },
-      {
-        post:
-          "https://parallelteeth.tumblr.com/post/143893384310/yellow-face-loop",
-        img:
-          "//66.media.tumblr.com/d7076844afc4e31d41fbf29a70f722f9/tumblr_o6pjqaxIyp1qlcv4no1_500.gif",
-        name: "parallelteeth",
-        avatar: "//66.media.tumblr.com/avatar_77fe76bee697_128.png",
-        blog: "https://parallelteeth.tumblr.com"
-      },
     ];
   },
   function(t, r, n) {
