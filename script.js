@@ -460,7 +460,7 @@
       {
         post: "https://mrdiv.tumblr.com/post/55896884040/design-takes-time",
         img:
-          "//66.media.tumblr.com/27e74919b57a323010e051aff8c7c4fe/tumblr_mq7a3vfsKu1qzw1qyo1_500.gif",
+          "https://cdn.glitch.com/8054a390-de49-44e7-9337-22e421155ac1%2F68b72696-7c88-499b-8db1-4884a8169887.jpg?v=1611419722802",
         name: "mrdiv",
         avatar: "//66.media.tumblr.com/avatar_092d79dc6937_128.png",
         blog: "https://mrdiv.tumblr.com/"
