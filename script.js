@@ -1338,8 +1338,8 @@
         __p +=
        '<div class="post-attribution"><a class="post-attribution-link" href="' +
          __e(attribution.post) +
-       '" target="_blank" rel="nofollow"><span data-translation="">' +
-          __e(localized("", "")) +
+       '" target="_blank" rel="nofollow"><span data-translation="Posted_by">' +
+          __e(localized("Posted_by", "Photo by")) +
           ' </span><strong class="blog-name">' +
            __e(attribution.name) +
           '</strong></a><a class="avatar-link" href="' +
