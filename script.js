@@ -462,7 +462,7 @@
         img:"https://cdn.glitch.com/8054a390-de49-44e7-9337-22e421155ac1%2F68b72696-7c88-499b-8db1-4884a8169887.jpg?v=1611419722802",
         name: "Path Integral",
         avatar: "",
-        blog: "https://twitter.com/buddhagalactus"
+        blog: ""
       },
     ];
   },
@@ -1338,8 +1338,8 @@
         __p +=
        '<div class="post-attribution"><a class="post-attribution-link" href="' +
          __e(attribution.post) +
-       '" target="_blank" rel="nofollow"><span data-translation="posted_by">' +
-          __e(localized("posted_by", "Posted by")) +
+       '" target="_blank" rel="nofollow"><span data-translation="">' +
+          __e(localized("", "")) +
           ' </span><strong class="blog-name">' +
            __e(attribution.name) +
           '</strong></a><a class="avatar-link" href="' +
